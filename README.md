@@ -1,4 +1,4 @@
-# Java Roadmap Tracker
+# Java Roadmap Tracker (https://sh1wam.github.io/java-tracker/)
 
 Static page (`index.html`) that saves your checklist progress to `progress.json` in this repo.
 
